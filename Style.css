@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif ;
+    background-color: lightslategrey;
+    text-align: center;
+    font-weight: bold;
+
+}
+.Start{
+    background-color: antiquewhite;
+    font-size: 20px;
+    padding: 10px;
+    border: black 3px solid;
+
+
+}
+.Start:hover {
+    background-color: cyan;
+    border-radius: 20px;
+}
