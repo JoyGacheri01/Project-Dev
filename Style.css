@@ -1,12 +1,12 @@
 body{
     font-family: sans-serif ;
-    background-color: lightslategrey;
+    background-color: azure;
     text-align: center;
     font-weight: bold;
 
 }
 .Start{
-    background-color: antiquewhite;
+    background-color: chocolate;
     font-size: 20px;
     padding: 10px;
     border: black 3px solid;
@@ -14,6 +14,9 @@ body{
 
 }
 .Start:hover {
-    background-color: cyan;
+    background-color: cornflowerblue;
     border-radius: 20px;
+}
+.Second{
+    background-color: darkblue;
 }
